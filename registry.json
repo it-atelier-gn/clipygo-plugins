@@ -10,16 +10,16 @@
       "repo": "https://github.com/it-atelier-gn/clipygo-plugins-demo",
       "platforms": {
         "windows-x64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugins-demo/releases/download/v1.0.0/clipygo-plugin-demo-windows-x64.exe",
-          "sha256": "sha256:9f196a57e957757c9b0d1cab08f0399981a13948bcaded99ba795624ac08d9a1"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-demo/releases/download/v1.0.0/clipygo-plugin-demo-windows-x64.exe",
+          "sha256": "9f196a57e957757c9b0d1cab08f0399981a13948bcaded99ba795624ac08d9a1"
         },
         "linux-x64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugins-demo/releases/download/v1.0.0/clipygo-plugin-demo-linux-x64",
-          "sha256": "sha256:5dc91c21cf6fcac2edecd56db60e86f7e29ab58dd712e36e35dc147a8f2cafd5"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-demo/releases/download/v1.0.0/clipygo-plugin-demo-linux-x64",
+          "sha256": "5dc91c21cf6fcac2edecd56db60e86f7e29ab58dd712e36e35dc147a8f2cafd5"
         },
         "macos-arm64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugins-demo/releases/download/v1.0.0/clipygo-plugin-demo-macos-arm64",
-          "sha256": "sha256:436797d18bba6fc21dccce8d25c73735980fccd9e01aa30525d6733f243866f3"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-demo/releases/download/v1.0.0/clipygo-plugin-demo-macos-arm64",
+          "sha256": "436797d18bba6fc21dccce8d25c73735980fccd9e01aa30525d6733f243866f3"
         }
       }
     }
