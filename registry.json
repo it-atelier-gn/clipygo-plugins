@@ -22,6 +22,28 @@
           "sha256": "c91a97968cf8644eef5c220225a7075ce572032eda8668cbae95d2e3def223ff"
         }
       }
+    },
+    {
+      "id": "clipygo-plugin-msteams",
+      "name": "MS Teams",
+      "description": "Send clipboard content to Microsoft Teams chats and channels via the Graph API.",
+      "author": "Georg Nelles",
+      "version": "0.1.0",
+      "repo": "https://github.com/it-atelier-gn/clipygo-plugin-msteams",
+      "platforms": {
+        "windows-x64": {
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-msteams/releases/download/v0.1.0/clipygo-plugin-msteams-windows-x64.exe",
+          "sha256": "db1110d326128a4d501b5dcfc27c2f5ec11fe6fa3904d823bec5d346d77c1857"
+        },
+        "linux-x64": {
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-msteams/releases/download/v0.1.0/clipygo-plugin-msteams-linux-x64",
+          "sha256": "77eda150a46e02bd07fa4195480f9ac22976a5646cdce2baae3b80668c5461fb"
+        },
+        "macos-arm64": {
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-msteams/releases/download/v0.1.0/clipygo-plugin-msteams-macos-arm64",
+          "sha256": "4e4a369e29dfd724e1d4b889e76aad2a2f98de5cea8491c750917d0824b08b60"
+        }
+      }
     }
   ]
 }
