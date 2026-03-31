@@ -61,7 +61,7 @@ Supported platform keys: `windows-x64`, `linux-x64`, `macos-arm64`, `macos-x64`.
 ## Publishing a plugin
 
 1. Write a plugin that speaks the [clipygo plugin protocol](https://github.com/it-atelier-gn/clipygo#-plugin-system) (JSON over stdin/stdout)
-2. Set up a GitHub Actions release workflow that builds binaries and uploads them with `.sha256` files (see [clipygo-plugins-demo](https://github.com/it-atelier-gn/clipygo-plugins-demo) for a working example)
+2. Set up a GitHub Actions release workflow that builds binaries and uploads them with `.sha256` files (see [clipygo-plugin-demo](https://github.com/it-atelier-gn/clipygo-plugin-demo) for a working example)
 3. Open a PR adding your entry to `registry.json`
 
 ---
@@ -70,7 +70,8 @@ Supported platform keys: `windows-x64`, `linux-x64`, `macos-arm64`, `macos-x64`.
 
 | Plugin | Description | Author |
 |---|---|---|
-| [Demo Plugin](https://github.com/it-atelier-gn/clipygo-plugins-demo) | Demo subprocess provider with two hardcoded targets | Georg Nelles |
+| [Demo Plugin](https://github.com/it-atelier-gn/clipygo-plugin-demo) | Demo subprocess provider with two hardcoded targets | Georg Nelles |
+| [MS Teams](https://github.com/it-atelier-gn/clipygo-plugin-msteams) | Send clipboard content to Microsoft Teams chats and channels | Georg Nelles |
 
 ---
 
