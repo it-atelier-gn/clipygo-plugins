@@ -72,6 +72,7 @@ Supported platform keys: `windows-x64`, `linux-x64`, `macos-arm64`, `macos-x64`.
 |---|---|---|
 | [Demo Plugin](https://github.com/it-atelier-gn/clipygo-plugin-demo) | Demo subprocess provider with two hardcoded targets | Georg Nelles |
 | [MS Teams](https://github.com/it-atelier-gn/clipygo-plugin-msteams) | Send clipboard content to Microsoft Teams chats and channels | Georg Nelles |
+| [Encrypted Relay](https://github.com/it-atelier-gn/clipygo-plugin-relay) | E2E encrypted clipboard sharing between users via a zero-knowledge relay server | Georg Nelles |
 
 ---
 
