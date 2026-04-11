@@ -88,6 +88,50 @@
           "sha256": "d5be1eeb60f161f3cf5626070d945c6d59557884fb5e1fee8d4e370b0a9558b8"
         }
       }
+    },
+    {
+      "id": "clipygo-plugin-telegram",
+      "name": "Telegram",
+      "description": "Send clipboard content to Telegram chats via the Bot API — text and images.",
+      "author": "Georg Nelles",
+      "version": "0.1.0",
+      "repo": "https://github.com/it-atelier-gn/clipygo-plugin-telegram",
+      "platforms": {
+        "windows-x64": {
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-telegram/releases/download/v0.1.0/clipygo-plugin-telegram-windows-x64.exe",
+          "sha256": "eae8dde695f80bd16611c598140ac7085a1e0772fb2373223302aae613cad888"
+        },
+        "linux-x64": {
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-telegram/releases/download/v0.1.0/clipygo-plugin-telegram-linux-x64",
+          "sha256": "08c26047384d64db9b514daf4d27f5ceb6f32f47f465733d353b0aba2e625949"
+        },
+        "macos-arm64": {
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-telegram/releases/download/v0.1.0/clipygo-plugin-telegram-macos-arm64",
+          "sha256": "9ddde2bcffd942f299f0f94103c2cdbfbad1755beaada222a2df1451076ad4ea"
+        }
+      }
+    },
+    {
+      "id": "clipygo-plugin-discord",
+      "name": "Discord",
+      "description": "Send clipboard content to Discord text channels via the Bot API — auto-discovers servers and channels.",
+      "author": "Georg Nelles",
+      "version": "0.1.0",
+      "repo": "https://github.com/it-atelier-gn/clipygo-plugin-discord",
+      "platforms": {
+        "windows-x64": {
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-discord/releases/download/v0.1.0/clipygo-plugin-discord-windows-x64.exe",
+          "sha256": "79f061dbe9dbb5a128959865e7e6a724e1bbe9b8d53eaf7af7da13e38cf1e9eb"
+        },
+        "linux-x64": {
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-discord/releases/download/v0.1.0/clipygo-plugin-discord-linux-x64",
+          "sha256": "a0f3673c950c35ae26fdcdc3742e656b7ecb8d7ada4753f9f79acf1efbd4ced4"
+        },
+        "macos-arm64": {
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-discord/releases/download/v0.1.0/clipygo-plugin-discord-macos-arm64",
+          "sha256": "1a24135f1050acaaeedf98f18125641a442ffa2e8271a82e35b903c8facd8cf2"
+        }
+      }
     }
   ]
 }
