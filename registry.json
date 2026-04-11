@@ -72,20 +72,20 @@
       "name": "Obsidian",
       "description": "Send clipboard content to your Obsidian vault — daily note, inbox, or new note.",
       "author": "Georg Nelles",
-      "version": "0.1.1",
+      "version": "0.2.0",
       "repo": "https://github.com/it-atelier-gn/clipygo-plugin-obsidian",
       "platforms": {
         "windows-x64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-obsidian/releases/download/v0.1.1/clipygo-plugin-obsidian-windows-x64.exe",
-          "sha256": "83f9f620418fc6361df2c89412e9fa88e736b2e87f1fccff48fe32eb3b5dcd95"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-obsidian/releases/download/v0.2.0/clipygo-plugin-obsidian-windows-x64.exe",
+          "sha256": "7be8974d9f3a6f78ee1603ffb62eefda2ee38c78e87232433ac058b21610e525"
         },
         "linux-x64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-obsidian/releases/download/v0.1.1/clipygo-plugin-obsidian-linux-x64",
-          "sha256": "f4ec67ac543cd55edc2afbd2835dfba5dfc3a260db909299aaf1286e40ead628"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-obsidian/releases/download/v0.2.0/clipygo-plugin-obsidian-linux-x64",
+          "sha256": "645b5e0d87020cff437a9ae08a36e589d08e7f66f44d9de30d0fc57934e0e976"
         },
         "macos-arm64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-obsidian/releases/download/v0.1.1/clipygo-plugin-obsidian-macos-arm64",
-          "sha256": "fdbd11cac4e9d0689d63023934de5ebd8180ce86263b2915e5b54126f9470e3b"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-obsidian/releases/download/v0.2.0/clipygo-plugin-obsidian-macos-arm64",
+          "sha256": "d5be1eeb60f161f3cf5626070d945c6d59557884fb5e1fee8d4e370b0a9558b8"
         }
       }
     }
