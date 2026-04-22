@@ -10,9 +10,12 @@ clipygo fetches `registry.json` from this repo and displays available plugins in
 
 | Plugin | Description |
 |---|---|
-| [Demo Plugin](https://github.com/it-atelier-gn/clipygo-plugin-demo) | Demo provider with two hardcoded targets |
-| [MS Teams](https://github.com/it-atelier-gn/clipygo-plugin-msteams) | Send clipboard content to Teams chats and channels |
-| [Encrypted Relay](https://github.com/it-atelier-gn/clipygo-plugin-relay) | E2E encrypted clipboard sharing via a zero-knowledge relay |
+| [Demo Plugin](https://github.com/it-atelier-gn/clipygo-plugin-demo) | Reference plugin — two demo targets, showcases the full protocol including config and image handling |
+| [MS Teams](https://github.com/it-atelier-gn/clipygo-plugin-msteams) | Send clipboard content to Teams chats and channels via the Graph API |
+| [Encrypted Relay](https://github.com/it-atelier-gn/clipygo-plugin-relay) | E2E encrypted clipboard sharing between users via a zero-knowledge relay server |
+| [Obsidian](https://github.com/it-atelier-gn/clipygo-plugin-obsidian) | Append clipboard content to a daily note, inbox, or new note in an Obsidian vault (text + images) |
+| [Telegram](https://github.com/it-atelier-gn/clipygo-plugin-telegram) | Send clipboard content to Telegram chats via a bot (text + images) |
+| [Discord](https://github.com/it-atelier-gn/clipygo-plugin-discord) | Send clipboard content to Discord channels via a bot (auto-discovers guilds/channels) |
 
 ## Publishing a plugin
 
