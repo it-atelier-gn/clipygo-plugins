@@ -28,20 +28,20 @@
       "name": "MS Teams",
       "description": "Send clipboard content to Microsoft Teams chats and channels via the Graph API.",
       "author": "Georg Nelles",
-      "version": "0.2.3",
+      "version": "0.2.4",
       "repo": "https://github.com/it-atelier-gn/clipygo-plugin-msteams",
       "platforms": {
         "windows-x64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-msteams/releases/download/v0.2.3/clipygo-plugin-msteams-windows-x64.exe",
-          "sha256": "8c147c14b1c25d30adb1310237faae75c46bd8eccd052aec96f60653c4d3b716"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-msteams/releases/download/v0.2.4/clipygo-plugin-msteams-windows-x64.exe",
+          "sha256": "dacfefc23814ac6deeb62bbc1432bf2d99143062cefe9b871dd68399a7566df9"
         },
         "linux-x64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-msteams/releases/download/v0.2.3/clipygo-plugin-msteams-linux-x64",
-          "sha256": "4bb60fa9e834667ba4170cf8b6ab752f9ef7567161d6958f42169b5ae26660f0"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-msteams/releases/download/v0.2.4/clipygo-plugin-msteams-linux-x64",
+          "sha256": "9b85ea0e9e18f8f499c40a3088232c069282e332d6e1459937b7c981647e8e2a"
         },
         "macos-arm64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-msteams/releases/download/v0.2.3/clipygo-plugin-msteams-macos-arm64",
-          "sha256": "5eff79849fff7d166e3e3c272a6f4dc5dfa9c87cb6812b2b13171fe98dd23d0f"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-msteams/releases/download/v0.2.4/clipygo-plugin-msteams-macos-arm64",
+          "sha256": "79bea4903112ef32ba36d4144f8033ff136d9d666f782cd7e128b394a63746cd"
         }
       }
     },
@@ -94,20 +94,20 @@
       "name": "Telegram",
       "description": "Send clipboard content to Telegram chats via the Bot API — text and images.",
       "author": "Georg Nelles",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "repo": "https://github.com/it-atelier-gn/clipygo-plugin-telegram",
       "platforms": {
         "windows-x64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-telegram/releases/download/v0.1.1/clipygo-plugin-telegram-windows-x64.exe",
-          "sha256": "ad255f4727e9ae71c266f3a6de8e4a4646e0b6fbb1c4932b20bdb8e1cb7d4b25"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-telegram/releases/download/v0.1.2/clipygo-plugin-telegram-windows-x64.exe",
+          "sha256": "69d07bb9d49c4ec2dd4431c1317d593c6e5e7717666a4b9a51b57cf57a7047db"
         },
         "linux-x64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-telegram/releases/download/v0.1.1/clipygo-plugin-telegram-linux-x64",
-          "sha256": "2f104ff780b2a3496208a7781c814aaba492dccba3013d9ffebefd1ff66e747e"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-telegram/releases/download/v0.1.2/clipygo-plugin-telegram-linux-x64",
+          "sha256": "9596999b5474b77ca9691b58f9536ba26cd160a9931bd171e264c0483d527ffe"
         },
         "macos-arm64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-telegram/releases/download/v0.1.1/clipygo-plugin-telegram-macos-arm64",
-          "sha256": "a9caf494b6d0272b30732a44fe38017c8940e3e4dca8bfe817746fa1f1df72d6"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-telegram/releases/download/v0.1.2/clipygo-plugin-telegram-macos-arm64",
+          "sha256": "67ed344283aa45851044caac9e02199ff34196cdd2f771750e55d42259e2da55"
         }
       }
     },
@@ -116,20 +116,20 @@
       "name": "Discord",
       "description": "Send clipboard content to Discord text channels via the Bot API — auto-discovers servers and channels.",
       "author": "Georg Nelles",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "repo": "https://github.com/it-atelier-gn/clipygo-plugin-discord",
       "platforms": {
         "windows-x64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-discord/releases/download/v0.1.1/clipygo-plugin-discord-windows-x64.exe",
-          "sha256": "5827ea81576c23e4d55afba0771418ef50a3bbbd14827911af0d7b9262e7bcf8"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-discord/releases/download/v0.1.2/clipygo-plugin-discord-windows-x64.exe",
+          "sha256": "8220bbca53fd6a0028f3ac9d57844e0209a867779a3e36e2eaa3774c0eb568f4"
         },
         "linux-x64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-discord/releases/download/v0.1.1/clipygo-plugin-discord-linux-x64",
-          "sha256": "2318a3e3fa18841b8c3bb37e1386d9e8debc6b1104c0f7b62a2a349f5743e67d"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-discord/releases/download/v0.1.2/clipygo-plugin-discord-linux-x64",
+          "sha256": "2b0454846b87b21ac64212c2b9b5a4123308437cfccb97ced23c22ff72f62e2b"
         },
         "macos-arm64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-discord/releases/download/v0.1.1/clipygo-plugin-discord-macos-arm64",
-          "sha256": "6e162b06fb91f1b26334ceda9813332684d74b23e1d5290f1f64dd083702c849"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-discord/releases/download/v0.1.2/clipygo-plugin-discord-macos-arm64",
+          "sha256": "f21766418596edea3797b71d2645418f5c318f21c8564c15636014dca93e01dd"
         }
       }
     },
@@ -138,20 +138,20 @@
       "name": "Slack",
       "description": "Send clipboard content to Slack channels via the Web API — text and images.",
       "author": "Georg Nelles",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "repo": "https://github.com/it-atelier-gn/clipygo-plugin-slack",
       "platforms": {
         "windows-x64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-slack/releases/download/v0.1.0/clipygo-plugin-slack-windows-x64.exe",
-          "sha256": "19aae9d3ed5d37157c40f689fbd12e683463f60633fdb921ca8e16dee3567cea"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-slack/releases/download/v0.1.1/clipygo-plugin-slack-windows-x64.exe",
+          "sha256": "39d987eb3a5ca221a0c4521bf7d3716f9ddb355f0d836bda416a1c75d158d351"
         },
         "linux-x64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-slack/releases/download/v0.1.0/clipygo-plugin-slack-linux-x64",
-          "sha256": "02d878553b8d90c6adacf1343bc3a29e8fe1d345c47f53cb6327394d06ad826b"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-slack/releases/download/v0.1.1/clipygo-plugin-slack-linux-x64",
+          "sha256": "1cbce42d601707c8d07c2956ec3a5e41a63d19ed7483beae52a6f09bcfa9cd82"
         },
         "macos-arm64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-slack/releases/download/v0.1.0/clipygo-plugin-slack-macos-arm64",
-          "sha256": "1875b53b6a3d0acb662b36393c87ba02ed95c8735c8206f161797294ada9430b"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-slack/releases/download/v0.1.1/clipygo-plugin-slack-macos-arm64",
+          "sha256": "8c4155694be43aba811bded43236a4218ee278cac5f28b0054a51731754a6710"
         }
       }
     }
