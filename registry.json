@@ -4,22 +4,22 @@
     {
       "id": "clipygo-plugin-demo",
       "name": "Demo Plugin",
-      "description": "Demo subprocess target provider for clipygo — two demo targets with plugin configuration support.",
+      "description": "Demo subprocess target provider for clipygo — four demo targets covering text, image, html, and files, with plugin configuration support.",
       "author": "Georg Nelles",
-      "version": "1.3.3",
+      "version": "1.4.0",
       "repo": "https://github.com/it-atelier-gn/clipygo-plugin-demo",
       "platforms": {
         "windows-x64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-demo/releases/download/v1.3.3/clipygo-plugin-demo-windows-x64.exe",
-          "sha256": "78a5077f809a72ee97a2ae0e7224d3b4fb377946d49485df1b8c25adcf3c5cdd"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-demo/releases/download/v1.4.0/clipygo-plugin-demo-windows-x64.exe",
+          "sha256": "3da61a5549dd8892cd1d989db870ecc977e9ef7da807f824b453b72553eca114"
         },
         "linux-x64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-demo/releases/download/v1.3.3/clipygo-plugin-demo-linux-x64",
-          "sha256": "cd11d6195608711247a9d14f3f94071cbdb63a08dba14667d77847d34d787194"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-demo/releases/download/v1.4.0/clipygo-plugin-demo-linux-x64",
+          "sha256": "778da81d8202796c9d1277e02ea72a488b68eacbba0e36594e0e52b5e79be2ca"
         },
         "macos-arm64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-demo/releases/download/v1.3.3/clipygo-plugin-demo-macos-arm64",
-          "sha256": "d6a6fb16ae50fdcb88ddbefdd2049ca53d68699b95657bb749e086ba145a6b40"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-demo/releases/download/v1.4.0/clipygo-plugin-demo-macos-arm64",
+          "sha256": "c3f3d3ff284404199c1482bb011209b00b52c98fe5c5a44105bc7df2cf9d9d5c"
         }
       }
     },
