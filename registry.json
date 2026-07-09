@@ -50,20 +50,20 @@
       "name": "Encrypted Relay",
       "description": "End-to-end encrypted clipboard sharing between devices via a relay server with X25519 ECDH and XChaCha20-Poly1305.",
       "author": "Georg Nelles",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "repo": "https://github.com/it-atelier-gn/clipygo-plugin-relay",
       "platforms": {
         "windows-x64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-relay/releases/download/v0.3.2/clipygo-plugin-relay-windows-x64.exe",
-          "sha256": "19e265a429190dac8fe55c6d8185efd7f8df975eadf19d30d0bbd11f208829ec"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-relay/releases/download/v0.3.3/clipygo-plugin-relay-windows-x64.exe",
+          "sha256": "8c8499d2aecc96292c85aa55e06d7d3d2920ef68b495e9f04d4f5f50812fdfbf"
         },
         "linux-x64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-relay/releases/download/v0.3.2/clipygo-plugin-relay-linux-x64",
-          "sha256": "46b4d09f52c9d47b049d7ef5b73a91313c3d46da7fcb1002da79e6c478525c9e"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-relay/releases/download/v0.3.3/clipygo-plugin-relay-linux-x64",
+          "sha256": "cd87849911e64a43cba17073431074296ca1fcaeb0f96f61ce95b688c8311299"
         },
         "macos-arm64": {
-          "url": "https://github.com/it-atelier-gn/clipygo-plugin-relay/releases/download/v0.3.2/clipygo-plugin-relay-macos-arm64",
-          "sha256": "f040919f9c895caecbd56729ffa763bc3a1754baea1b3e99000462a256a82f85"
+          "url": "https://github.com/it-atelier-gn/clipygo-plugin-relay/releases/download/v0.3.3/clipygo-plugin-relay-macos-arm64",
+          "sha256": "8fdb04d7d6fd5a1ffe29fffb1a6504544a4a1dfd22dab6807050e2b6c7b960e0"
         }
       }
     },
